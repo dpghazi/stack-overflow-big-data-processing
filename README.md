@@ -60,7 +60,6 @@ if __name__ == '__main__':
 ### Language **& Tools**
 
 - Python
-- SQL
 - Spark (PySpark)
 - AWS (EMR, EC2, S3)
 - Bash (Amazon Linux 2)
